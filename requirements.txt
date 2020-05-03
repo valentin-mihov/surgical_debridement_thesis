@@ -1,0 +1,9 @@
+tensorflow==2.0.1
+pandas
+Pillow
+numpy
+matplotlib
+cffi==1.11.5
+pyquaternion
+html-testRunner
+gym

@@ -1,0 +1,6 @@
+[submodule "PyRep"]
+	path = PyRep
+	url = ./lib/PyRep
+[submodule "keras-rl2"]
+	path = keras-rl2
+	url = ./lib/keras-rl2
