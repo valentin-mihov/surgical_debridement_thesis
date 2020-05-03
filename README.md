@@ -1,4 +1,4 @@
-#Deep Reinforcement Learning approach towards Visual Servoing for Surgical Debridement
+# Deep Reinforcement Learning approach towards Visual Servoing for Surgical Debridement
 
 <p align="center"> 
 <img src="images/all_view.png?">
@@ -7,7 +7,7 @@
 ## Overview
 In this project, we develop a Deep Deterministic Policy Gradient (DDPG) approach toward robotic control, aimed at exploring it's uses for surgical depridement (removal of dead tissue). A simulation called CoppeliaSim is used as the agent's environment for interaction. The project is developed on Ubuntu 19.04 with a CUDA-enabled GPU.
 
-##Installations and Environment Initialisation
+## Installations and Environment Initialisation
 In this section, the required installation procedures are outlined.
 
 ### Simulation Installation
